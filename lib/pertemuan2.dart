@@ -25,7 +25,7 @@ class _pertemuan2State extends State<pertemuan2> {
                 color: Colors.blueGrey,
                 height: 100,
                 width: 200,
-                  child: Text("Test",
+                  child: Text("Tests",
                     style: TextStyle(fontSize: 40, ),
                   ),alignment: Alignment.center,
 
